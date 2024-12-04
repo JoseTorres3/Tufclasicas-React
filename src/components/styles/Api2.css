@@ -1,0 +1,31 @@
+.table2 {
+    width: 50%;
+    margin-top: -30px;
+    margin-left: 100px;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.table2 th,
+.table2 td {
+    padding: 12px 20px;
+    text-align: left;
+}
+
+.table2 th {
+    background-color: #27ae60;
+    color: white;
+}
+
+.table2 tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table2 tr:hover {
+    background-color: #f1f1f1;
+}
+
+.tituu{
+    margin: 50px;
+    margin-left: 100px;
+}
